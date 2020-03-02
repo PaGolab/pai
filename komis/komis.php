@@ -38,7 +38,7 @@
           <td>$row[name]</td>
           <td>$row[surname]</td>
           <td>$row[city]</td>
-          <td><a href='./scripts/del_user.php?id=$row[id]'>Usuń</a></td>
+          <td><a href='../scripts/del_user.php?id=$row[id]'>Usuń</a></td>
         </tr>
 ROW;
       }
